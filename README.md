@@ -1,2 +1,2 @@
-# Curso-de-JavaScript-e-TypeScript-do-b-sico-ao-avan-ado-2022
+# Curso-de-JavaScript-e-TypeScript
 Curso de Luiz Otávio Miranda
